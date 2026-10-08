@@ -1,0 +1,3 @@
+﻿  izing+.cpp
+C:\Users\SuxEg\OneDrive\Рабочий стол\С++\izing+\izing+\izing+.cpp(106,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  izing+.vcxproj -> C:\Users\SuxEg\OneDrive\Рабочий стол\С++\izing+\x64\Debug\izing+.exe
